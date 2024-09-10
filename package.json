@@ -72,6 +72,8 @@
     "webpack": "3.10.0"
   },
     "overrides": {
-      "jsonpointer": "5.0.0"
+      "better-ajv-errors": {
+        "jsonpointer": "5.0.0"
+      }
     }
 }
