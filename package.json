@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test",
     "build": "node ./scripts/build.js",
-    "start": "node index.js -start",
+    "start": "node index.js -start"
   },
   "author": "Veracity Technology Consultants <contact@veracity.it> (https://veracity.it)",
   "license": "SEE LICENSE IN LICENSE",
