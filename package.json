@@ -4,7 +4,7 @@
   "description": "A standalone xAPI LRS module indended to be integrated into other systems",
   "main": "index.js",
   "resolutions": {
-    "tough-cookie": "^5.0.0",
+    "tough-cookie": "5.0.0",
     "jsonpointer": "5.0.0"
   },
   "scripts": {
