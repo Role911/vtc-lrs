@@ -72,6 +72,8 @@
     "webpack": "3.10.0"
   },
   "overrides": {
-    "body-parser": "1.20.3"
+    "body-parser": "1.20.3",
+    "json-schema-ref-parser": "9.0.9"
+
   }
 }
